@@ -1,0 +1,153 @@
+.body{
+    font-family: 'League Gothic', sans-serif;
+
+}
+
+.nav_item{
+    letter-spacing: .2em;
+    font-size: 14px;
+    text-transform: uppercase;
+
+}
+
+.dropdown-item{
+    letter-spacing: .2em;
+    font-size: 14px;
+    text-transform: uppercase;
+
+}
+
+.my_footer{
+    background-color: gray;
+    height:40px;
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+
+}
+
+.my_footer p{
+    padding-top:5px;
+    font-size:14px;
+
+}
+
+/*** category page ***/
+.my_row_class{
+    padding-top:14px;
+
+}
+.my_row_class .mx_auto{
+    color:#000;
+    font-size:12px;
+
+}
+
+.my_image{
+    width:100%;
+    height:30;
+
+}
+.my_title{
+    font-size:14px;
+    text-transform:uppercase;
+    letter-spacing: .2em;
+
+}
+.my_image_padding{
+    padding:5px;
+}
+
+.my_bottom_margin{
+    margin-bottom:10px;
+}
+
+.card-body h4{
+    font-size:14px;
+    text-transform:uppercase;
+    letter-spacing:.2em;
+}
+
+.pg_page{
+  padding-bottom:15px;
+  margin-bottom: 25px;
+}
+
+/***product page***/
+.my_prod_row_class{
+    padding-top:15px;
+    padding-bottom:20px;
+}
+
+.my_prod_row_class .mx_auto{
+    color:#000;
+    font-size:12px;
+    text-decoration:none;
+    padding-bottom: 35px;
+}
+.my_prod_title{
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:.2em;
+    padding-top:15px;
+    padding-bottom:15px;
+
+}
+
+.my_prod_text{
+    padding-right:20px;
+}
+/***search.html***/
+
+.my_search_text{
+    padding-top:20px;
+}
+
+/***cart.html***/
+
+.my_custom_table{
+    min-width:400px;
+    font-size:14px;
+    padding-bottom:20px;
+    margin-bottom: 25px;
+}
+
+.my_custom_thead{
+    font-weight:normal;
+    text-transform:uppercase;
+    letter-spacing:.2em;
+    background-color:DarkOliveGreen;
+}
+
+.custom_a{
+    text-decoration:none;
+
+}
+
+.custom_icon{
+    text-decoration:none;
+    color:gray;
+}
+
+.my_custom_button{
+    margin-top:5px;
+    margin-bottom: 25px;
+    padding-bottom: 35px;
+}
+
+.grid {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 25px;
+    padding-bottom: 35px;
+}
+.button_group{
+    display: inline-block;
+    margin: 30px; /* space between buttons */
+    font-size: 1.5em;
+    font-family: ‘Georgia’, serif;
+    font-style: italic;
+
+
+}
